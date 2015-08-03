@@ -1,6 +1,6 @@
 # Date Picker Prototype
 
-This prototype was used to test an eternicode date picker created by Andrew Rowls in order to determine what default behaviors and features should be supported by PatternFly.
+This prototype was used to test an eternicode date picker created by Andrew Rowls in order to determine what default behaviors and features should be supported by https://www.patternfly.org/.
 
 The specific behaviors/features tested were:
 -Autoclose
