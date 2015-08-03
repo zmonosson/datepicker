@@ -11,4 +11,4 @@ The specific behaviors/features tested were:
 
 Note: after pulling this repo, the Font Awesome icons may not appear. If this is the case: run index.html by using gulp. See instructions here and note that the gulpfile.js has been created already:
 
-http://blog.andresgalante.com/howto/2015/02/09/gulp-guide-for-designers.html, but note that the gulpfile.js 
+http://blog.andresgalante.com/howto/2015/02/09/gulp-guide-for-designers.html
